@@ -14,6 +14,24 @@ Tools used for this are:
 
 * gcloud: SDK cli
 
+## Kubesail cluster
+
+Kubesail is a cluster with free account. I have decided also to use this other cluster to make some tests.
+
+### Characteristics
+
+* up to 1 CPU, when available
+* 512MB RAM
+* 100MB NVMe-based storage
+* 1 Domain
+* No Private Docker Images
+* Chat Support
+* Limited Kubernetes Resource quotas
+
+## Exercises to complete
+
+Here is a repository with [a bunch of exercises to practice Kubernetes technology](https://github.com/dgkanatsios/CKAD-exercises/)
+
 ## Katacoda
 
 I will create all Katacoda resources:
